@@ -1,0 +1,8 @@
+1,Ink,10.5,Added to stock,05/05/2020 18:22:19
+6,Pencil,5.25,Added to stock,05/05/2020 18:22:37
+8,Rubber,5.5,Added to stock,07/05/2020 20:27:58
+9,PJ,2.5,Added to stock,07/05/2020 20:48:00
+9,asd,5,Added to stock,07/05/2020 20:54:28
+12,A2 Paper,5,Added to stock,08/05/2020 21:42:24
+9,Notebook,5,Added to stock,10/05/2020 00:13:5312,Toner,20,Added to stock,10/05/2020 00:42:43
+111,Binder,30,Added to stock,10/05/2020 00:45:27

@@ -1,0 +1,11 @@
+1,Pens,27,5,
+2,Stapler,3,15,
+3,Pencil,18,10,
+4,Bluetac,2,5,
+5,Marker,4,10,
+6,Paper,99,5,
+7,Ink,4,10.5,
+8,Rubber,19,5.5,
+9,Notebook,9,5,
+12,Toner,4,20,
+111,Binder,35,30

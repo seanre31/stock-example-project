@@ -1,0 +1,13 @@
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\bin\Debug\netcoreapp3.1\sdam_stock_assignment.exe
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\bin\Debug\netcoreapp3.1\sdam_stock_assignment.deps.json
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\bin\Debug\netcoreapp3.1\sdam_stock_assignment.runtimeconfig.json
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\bin\Debug\netcoreapp3.1\sdam_stock_assignment.runtimeconfig.dev.json
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\bin\Debug\netcoreapp3.1\sdam_stock_assignment.dll
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\bin\Debug\netcoreapp3.1\sdam_stock_assignment.pdb
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\obj\Debug\netcoreapp3.1\sdam_stock_assignment.csprojAssemblyReference.cache
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\obj\Debug\netcoreapp3.1\sdam_stock_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\obj\Debug\netcoreapp3.1\sdam_stock_assignment.AssemblyInfoInputs.cache
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\obj\Debug\netcoreapp3.1\sdam_stock_assignment.AssemblyInfo.cs
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\obj\Debug\netcoreapp3.1\sdam_stock_assignment.dll
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\obj\Debug\netcoreapp3.1\sdam_stock_assignment.pdb
+C:\Users\Sean\source\repos\sdam_stock_assignment\sdam_stock_assignment\obj\Debug\netcoreapp3.1\sdam_stock_assignment.genruntimeconfig.cache
